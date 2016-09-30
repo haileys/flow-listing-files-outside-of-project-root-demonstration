@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "devDependencies": {
+    "flow-bin": "^0.33.0"
+  }
+}
